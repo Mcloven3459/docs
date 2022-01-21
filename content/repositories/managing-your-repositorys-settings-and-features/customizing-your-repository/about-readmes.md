@@ -12,7 +12,7 @@ versions:
   ghes: '*'
   ghae: '*'
   ghec: '*'
-topics:
+topics: by
   - Repositories
 ---
 ## About READMEs
